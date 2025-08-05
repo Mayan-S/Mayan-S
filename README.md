@@ -1,4 +1,6 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://github.com/user-attachments/assets/dffb3e4a-84a8-48c2-87e0-29e372b000d8" width="100%">
+![Line](https://github.com/user-attachments/assets/dffb3e4a-84a8-48c2-87e0-29e372b000d8)
+
 <h1><b>Hi there, I'm </b><a href="https://github.com/Mayan-S">Mayan Saravanabavan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
