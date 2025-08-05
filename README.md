@@ -11,9 +11,11 @@
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Featured Projects***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file.
+📝 [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file.
 
-[Spotify Stats](https://github.com/Mayan-S/spotify-stats) - A PyQt5 desktop application that displays your Spotify listening data in a Spotify Wrapped style slideshow.
+🎵 [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - A PyQt5 desktop application that displays your Spotify listening data in a Spotify Wrapped style slideshow.
+
+<br /> 
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
@@ -22,5 +24,3 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-<img src="https://github.com/user-attachments/assets/dffb3e4a-84a8-48c2-87e0-29e372b000d8" width="100%">
