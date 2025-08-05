@@ -23,7 +23,7 @@ Document Scanner -
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
+  ![download](https://github.com/user-attachments/assets/705b3ae4-d1cf-465f-8620-f4243e931801)<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
                 style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px' direction='ltr'>
         <style>
             @keyframes currstreak {
@@ -134,6 +134,8 @@ Document Scanner -
             
         </g>
     </svg>
+
+
 
 
 </div>
