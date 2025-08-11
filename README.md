@@ -17,9 +17,9 @@ I am a second-year Electrical Engineering student at the University of Toronto.
 <br /> 
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***My Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[comment]: <> (<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***My Stats***)
+[comment]: <> (<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">)
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[comment]: <> (<div align="left">)
+  [comment]: <> (<img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />)
+[comment]: <> (</div>)
