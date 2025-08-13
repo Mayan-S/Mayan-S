@@ -16,7 +16,7 @@ I am a second-year Electrical Engineering student at the University of Toronto.
 
 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
-<br /> 
+[comment]: <> (<br />)
 
 <!-- Github Stats -->
 [comment]: <> (<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***My Stats***)
