@@ -5,7 +5,7 @@
 
 I am a second-year Electrical Engineering student at the University of Toronto.
 
-<br />
+<!-- <br /> -->
 
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***  -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  -->
