@@ -12,9 +12,11 @@ I am a second-year Electrical Engineering student at the University of Toronto.
 
 ...
 
-<!-- 📝 [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file (Web application) -->
+📝 [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file (Web application)
 
-<!-- 🎵 [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow (Desktop application) -->
+🎵 [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow (Desktop application)
+
+🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
