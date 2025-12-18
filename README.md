@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - I am a second-year Electrical Engineering student at the University of Toronto.
 
-- At this early stage in my career, I am interested in power systems, control, and signal processing.
+- At this early stage in my studies, I am interested in power systems, control, and signal processing.
 
 - Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact.
 
