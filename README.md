@@ -5,6 +5,12 @@
 
 I am a second-year Electrical Engineering student at the University of Toronto. 
 
+<!-- I am currently interested in various subfields within Electrical Engineering, from power systems to signal processing. -->
+
+<!-- Next year, I will pursue a minor in sustainable energy. This is driven by the desire to build a career that makes a positive impact in our community.-->
+
+<!-- I am actively seeking a co-op opportunity for Summer 2026 to further explore where I want to take my electrical engineering degree and gain a better sense of what working in the industry looks like. -->
+
 <br />
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
