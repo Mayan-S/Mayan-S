@@ -16,6 +16,10 @@ I am a second-year Electrical Engineering student at the University of Toronto.
 
 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
+🏢 [Redesign Proposal of Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
+
+❌ [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe (Desktop application)
+
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
 [comment]: <> (<br />)
