@@ -3,13 +3,13 @@
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ***About me***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am a second-year Electrical Engineering student at the University of Toronto. 
+I am a second-year Electrical Engineering student at the University of Toronto.
 
-<!-- I am currently interested in various subfields within Electrical Engineering, from power systems to signal processing. -->
+At this early stage in my career, I am interested in power systems, control, and signal processing.
 
-<!-- Next year, I will pursue a minor in sustainable energy. This is driven by the desire to build a career that makes a positive impact in our community.-->
+Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact.
 
-<!-- I am actively seeking a co-op opportunity for Summer 2026 to further explore where I want to take my electrical engineering degree and gain a better sense of what working in the industry looks like. -->
+I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from real projects, and explore which direction I want to take my career in electrical engineering.
 
 <br />
 
