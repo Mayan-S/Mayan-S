@@ -6,9 +6,9 @@
 
 - At this early stage in my studies, I am interested in power systems, control, and signal processing
 
-<!-- - Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact -->
+- Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact
 
-<!-- - I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from real projects, and explore which direction I want to take my career in electrical engineering -->
+- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from real projects, and explore which direction I want to take my career in electrical engineering
 
 <br />
 
