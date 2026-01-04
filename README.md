@@ -8,7 +8,9 @@
 
 - Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities <!-- and guide me toward a career that makes a meaningful impact -->
 
-- I am <!-- also --> looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering
+- I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths within electrical engineering
+
+<!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
 
 <br />
 
@@ -21,9 +23,9 @@
 
 - [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
-- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
-
 - [Redesign Proposal of Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
+
+- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
 
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
