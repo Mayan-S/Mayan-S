@@ -23,11 +23,11 @@
 
 - [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
-- [Redesign Proposal of Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
-
 - [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
 
 - [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - TBD
+
+- [Redesign Proposal of Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
 
 
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
