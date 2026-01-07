@@ -27,6 +27,9 @@
 
 - [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
 
+- [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - TBD
+
+
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
 [comment]: <> (<br />)
