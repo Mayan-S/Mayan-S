@@ -10,6 +10,8 @@
 
 - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths within electrical engineering
 
+- You can view my online resume here: [mayan-s.github.io/gitprofile](https://mayan-s.github.io/gitprofile/)
+
 <!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
 
 <br />
