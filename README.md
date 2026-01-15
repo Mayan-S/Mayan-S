@@ -4,13 +4,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - I am a second-year Electrical Engineering student at the University of Toronto
 
-- At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing
+<!-- - At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing -->
+
+- I am interested in careers related to power systems, control systems, and signal processing
 
 - Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities <!-- and guide me toward a career that makes a meaningful impact -->
 
 - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths within electrical engineering
 
-- Take a look at my online [resume](https://mayan-s.github.io/gitprofile/) to learn more
+- Check out my full [portfolio](https://mayan-s.github.io/gitprofile/)
 
 <!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
 
