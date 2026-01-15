@@ -27,10 +27,9 @@
 
 - [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Play single-player or multi-player Tic-Tac-Toe with an unbeatable AI opponent
 
+-   [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
+
 - [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging and shooting game on FPGA with VGA display, PS/2 keyboard controls, and collision detection
-
-- [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
-
 
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
