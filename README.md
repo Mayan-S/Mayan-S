@@ -25,7 +25,7 @@
 
 - [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
-- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
+- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Play single-player or multi-player Tic-Tac-Toe with an unbeatable AI opponent
 
 - [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging and shooting game on FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
