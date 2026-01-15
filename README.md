@@ -10,7 +10,7 @@
 
 - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths within electrical engineering
 
-- You can view my online resume here: [mayan-s.github.io/gitprofile](https://mayan-s.github.io/gitprofile/)
+- Take a look at my online [resume](https://mayan-s.github.io/gitprofile/)
 
 <!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
 
@@ -27,7 +27,7 @@
 
 - [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Choose between single-player and multi-player Tic-Tac-Toe
 
-- [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging game on FPGA with VGA display, keyboard controls, and collision detection
+- [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging and shooting game on FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
 - [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
 
