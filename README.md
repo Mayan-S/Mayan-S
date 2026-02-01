@@ -31,7 +31,7 @@
 
 - [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text
 
-- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Play single-player Tic-Tac-Toe against an unbeatable AI, or challenge a friend in multiplayer.
+- [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Play single-player Tic-Tac-Toe against an unbeatable AI, or challenge a friend in multiplayer
 
 <!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
 
