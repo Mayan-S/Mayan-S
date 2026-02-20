@@ -6,7 +6,7 @@
 
 <!-- - At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing -->
 
-- I am interested in careers related to power systems, control systems, and signal processing
+- I am interested in careers related to power systems, control systems, and software development
 
 - Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities <!-- and guide me toward a career that makes a meaningful impact -->
 
