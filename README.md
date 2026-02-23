@@ -8,7 +8,7 @@
 
 - I am interested in careers related to power systems, control systems, and software development
 
-- <!-- Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact -->
+<!-- Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact -->
 - Next year, I will pursue a minor in Sustainable Energy to strengthen my understanding of energy systems and their role in building cleaner, more efficient communities.
 
 - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths after graduation
