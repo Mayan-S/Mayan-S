@@ -26,7 +26,7 @@
 
 - [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
-- Power Amplifier and Filter for HF Radio Transceiver - Amplifies and filters the transmit signal of a team-built radio for antenna broadcast
+- [Power Amplifier and Filter for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver) - Amplifies and filters the transmit signal of a team-built radio for antenna broadcast
 
 - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file
 
