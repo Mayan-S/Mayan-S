@@ -4,6 +4,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 - I am a second-year Electrical Engineering student at the University of Toronto
 
+- I will be an Electrical Engineering Intern at Longford International Ltd this summer
+
 <!-- - At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing -->
 
 - I am interested in careers related to Energy Systems and Control Systems
@@ -12,8 +14,6 @@
 - I am pursuing a minor in Sustainable Energy to strengthen my understanding of energy systems and their role in building cleaner, more efficient communities
 
 <!--- - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths after graduation  -->
-
-- I will be an Electrical Engineering Intern at Longford International Ltd this summer
 
 - Check out my full [portfolio](https://mayan-s.github.io/gitprofile/)
 
