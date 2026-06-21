@@ -21,10 +21,10 @@
 
 <br />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-TBA
+<!-- TBA -->
 
 <!-- - [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building -->
 
