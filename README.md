@@ -8,10 +8,11 @@
 
 <!-- - At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing -->
 
-- I am interested in careers related to Energy Systems and Control Systems
+- Interested in careers related to power systems and control systems
 
 <!-- Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact -->
-- I am pursuing a minor in Sustainable Energy to strengthen my understanding of energy systems and their role in building cleaner, more efficient communities
+
+- Pursuing a minor in Sustainable Energy for a foundation in energy production, storage, distribution, and policy
 
 <!--- - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths after graduation  -->
 
@@ -19,10 +20,10 @@
 
 <!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
 
-<!-- <br /> -->
+<br />
 
-<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- TBA -->
 
