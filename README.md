@@ -37,8 +37,6 @@
 
 - [Asteroid-Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
-- [2D-Wave-Propagation-Simulator](https://github.com/Mayan-S/2D-Wave-Propagation-Simulator) - 
-
 - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file
 
 - [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow
