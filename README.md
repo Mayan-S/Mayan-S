@@ -29,7 +29,7 @@
 
 - [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
 
-- [USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design) - 
+- [USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design) - A portable power bank that charges a lithium-polymer battery over USB-C and outputs a regulated 5V
 
 - [Power Regulator and LED Board Design](https://github.com/Mayan-S/Power-Regulator-and-LED-Board-Design) - 
 
