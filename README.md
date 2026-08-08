@@ -31,7 +31,7 @@
 
 - 
 
-- 
+- [Power Amplifier and Filter Design for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver) - Amplifies and filters the outgoing signal of a software-defined radio before it reaches the antenna
 
 - [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
 
