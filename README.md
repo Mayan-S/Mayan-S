@@ -33,7 +33,7 @@
 
 - [Power Regulator and LED Board Design](https://github.com/Mayan-S/Power-Regulator-and-LED-Board-Design) - 
 
-- [LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design) - 
+- [LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design) - Steps down a 5V supply to a clean 3.3V output using a low-dropout linear regulator
 
 - [Asteroid-Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
