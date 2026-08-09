@@ -31,9 +31,9 @@
 
 - [USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design) - A portable power bank that charges a lithium-polymer battery over USB-C and outputs a regulated 5V
 
-- [Power Regulator and LED Board Design](https://github.com/Mayan-S/Power-Regulator-and-LED-Board-Design) - 
-
 - [LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design) - Steps down a 5V supply to a clean 3.3V output using a low-dropout linear regulator
+
+- [Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno) - Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals
 
 - [Asteroid-Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
