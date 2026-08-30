@@ -35,7 +35,7 @@
 
 - [Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno) - Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals
 
-- [Asteroid-Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
+- [Asteroid Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
 
 - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file
 
