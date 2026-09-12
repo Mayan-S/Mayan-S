@@ -37,13 +37,13 @@
 
 - [Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno) - Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals
 
-- [Asteroid Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection
+<!--- - [Asteroid Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection -->
 
-- [2D Wave Propagation Simulator](https://github.com/Mayan-S/2D-Wave-Propagation-Simulator) - Simulates rippling waves on an FPGA with VGA display, driven by microphone and mouse input
+<!-- - [2D Wave Propagation Simulator](https://github.com/Mayan-S/2D-Wave-Propagation-Simulator) - Simulates rippling waves on an FPGA with VGA display, driven by microphone and mouse input -->
 
-- [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file
+<!-- - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file -->
 
-- [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow
+<!-- - [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow -->
 
 <!-- TBA -->
 
@@ -65,10 +65,13 @@
 
 <!-- <br /> -->
 
-<!-- Github Stats -->
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***My Stats*** -->
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- <div align="left"> -->
 <!--   <img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-<!-- </div> -->
+<!--</div> -->
+
+<!--![](https://github-readme-stats.shion.dev/api?username=mayan-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!--![](https://streak-stats.demolab.com/?user=mayan-s&theme=dark&hide_border=false)<br/> -->
+<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayan-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
