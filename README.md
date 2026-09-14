@@ -1,77 +1,80 @@
-<h1>Hi there, I'm Mayan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<!--
+  Mayan Saravanabavan — GitHub profile README
+  Repo: github.com/Mayan-S/Mayan-S
+-->
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; ***About Me***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-- Third-year Electrical Engineering student at the University of Toronto
+<div align="center">
 
-<!-- - I will be an Electrical Engineering Intern at Longford International Ltd this summer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B1120,50:0E7490,100:22D3EE&text=Mayan%20Saravanabavan&fontColor=E6F6FB&fontSize=44&fontAlignY=34&desc=Electrical%20Engineering%20%C2%B7%20University%20of%20Toronto&descSize=17&descAlignY=54&animation=fadeIn" width="100%" alt="Mayan Saravanabavan" />
 
-<!-- - At this early stage in my studies, I am interested in careers related to power systems, control systems, and signal processing -->
+<a href="https://mayan-s.github.io/"><img src="https://img.shields.io/badge/Portfolio-0B1120?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/mayan-saravanabavan/"><img src="https://img.shields.io/badge/LinkedIn-0B1120?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzIyRDNFRSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
+<a href="mailto:mayan.saravanabavan@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-0B1120?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Toronto,%20ON-0B1120?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Toronto, ON" />
 
-- Interested in careers related to power systems and control systems
-
-<!-- Next year, I will be pursuing a minor in Sustainable Energy to deepen my understanding of how energy systems can contribute to cleaner, more efficient communities and guide me toward a career that makes a meaningful impact -->
-
-- Pursuing a minor in Sustainable Energy for a foundation in energy production, storage, distribution, and policy
-
-<!--- - I am seeking a Summer 2026 co-op opportunity to gain hands-on experience, work on practical projects, and explore potential career paths after graduation  -->
-
-- Check out my latest work here: [portfolio](https://mayan-s.github.io/)
-
-<!--- - Check out my latest work at [mayan-s.github.io](https://mayan-s.github.io/) -->
-
-<!--- I am also looking for a co-op opportunity for Summer 2026, where I can gain hands-on experience, learn from practical projects, and explore which direction I want to take my career in electrical engineering -->
+</div>
 
 <br />
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width ="35">&nbsp; ***Featured Projects***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30">&nbsp;About Me</h2>
 
-- [Power Amplifier and Filter Design for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver) - Amplifies and filters the outgoing signal of a software-defined radio before it reaches the antenna
+- Third-year Electrical Engineering student at the University of Toronto
 
-- [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building
+- Interested in careers related to power systems and control systems
 
-- [USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design) - A portable power bank that charges a lithium-polymer battery over USB-C and outputs a regulated 5V
+- Pursuing a minor in Sustainable Energy for a foundation in energy production, storage, distribution, and policy
 
-- [LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design) - Steps down a 5V supply to a clean 3.3V output using a low-dropout linear regulator
+- Everything I've worked on lives at [mayan-s.github.io](https://mayan-s.github.io/)
 
-- [Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno) - Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals
+<br />
 
-<!--- - [Asteroid Shooter](https://github.com/Mayan-S/Asteroid-Shooter) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection -->
+<h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhsaHFxaGx0bHhieWNlcTNtbW41dWxybGNreTM5cnVzaW90bmdoeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">&nbsp;Featured Projects</h2>
 
-<!-- - [2D Wave Propagation Simulator](https://github.com/Mayan-S/2D-Wave-Propagation-Simulator) - Simulates rippling waves on an FPGA with VGA display, driven by microphone and mouse input -->
+| Project | Description |
+| :--- | :--- |
+| **[Power Amplifier and Filter Design for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver)** | Amplifies and filters the outgoing signal of a software-defined radio before it reaches the antenna |
+| **[Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/)** | A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building |
+| **[USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design)** | A portable power bank that charges a lithium-polymer battery over USB-C and outputs a regulated 5V |
+| **[LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design)** | Steps down a 5V supply to a clean 3.3V output using a low-dropout linear regulator |
+| **[Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno)** | Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals |
 
-<!-- - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file -->
+<details>
+<summary><b>More projects</b></summary>
 
-<!-- - [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow -->
+<br />
 
-<!-- TBA -->
+| Project | Description |
+| :--- | :--- |
+| **[Asteroid Shooter](https://github.com/Mayan-S/Asteroid-Shooter)** | Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection |
+| **[2D Wave Propagation Simulator](https://github.com/Mayan-S/2D-Wave-Propagation-Simulator)** | Simulates rippling waves on an FPGA with VGA display, driven by microphone and mouse input |
+| **[Resume Builder](https://mayan-s.github.io/resume-builder/)** | Generate an engineering resume in under 5 minutes as a TeX or PDF file |
+| **[Spotify Stats](https://github.com/Mayan-S/spotify-stats)** | Display your Spotify listening data in a Spotify Wrapped style slideshow |
+| **[Document Scanner](https://github.com/Mayan-S/document-scanner)** | Uses OpenCV and Tesseract OCR to scan documents and extract text |
+| **[Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe)** | Play single-player Tic-Tac-Toe against an unbeatable AI, or challenge a friend in multiplayer |
 
-<!-- - [Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/) - A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building -->
+</details>
 
-<!-- - [DE1-SoC Arcade Game](https://github.com/Mayan-S/DE1-SoC-Arcade-Game) - Asteroid dodging and shooting game on an FPGA with VGA display, PS/2 keyboard controls, and collision detection -->
+<!--
+  Optional: contribution snake animation.
+  Add .github/workflows/snake.yml (see the companion file), run the Action once,
+  then uncomment the block below.
 
-<!-- - [Power Amplifier and Filter for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-for-HF-Radio-Transceiver) - Amplifies and filters the transmit signal of a team-built radio for antenna broadcast -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mayan-S/Mayan-S/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Mayan-S/Mayan-S/output/github-snake.svg" alt="Contribution snake" />
+  </picture>
+</div>
+-->
 
-<!-- - [Resume Builder](https://mayan-s.github.io/resume-builder/) - Generate an engineering resume in under 5 minutes as a TeX or PDF file -->
+<br />
 
-<!-- - [Spotify Stats](https://github.com/Mayan-S/spotify-stats) - Display your Spotify listening data in a Spotify Wrapped style slideshow -->
+<div align="center">
 
-<!-- - [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
+**Let's connect and build something great.**
 
-<!-- - [Impossible Tic-Tac-Toe](https://github.com/Mayan-S/impossible-tic-tac-toe) - Play single-player Tic-Tac-Toe against an unbeatable AI, or challenge a friend in multiplayer -->
+<a href="mailto:mayan.saravanabavan@mail.utoronto.ca"><img src="https://img.shields.io/badge/Get%20in%20touch-0EA5E9?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Get in touch" /></a>
 
-<!-- 🖨️ [Document Scanner](https://github.com/Mayan-S/document-scanner) - Uses OpenCV and Tesseract OCR to scan documents and extract text -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:22D3EE,50:0E7490,100:0B1120" width="100%" alt="" />
 
-<!-- <br /> -->
-
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; ***My Stats*** -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-
-<!-- <div align="left"> -->
-<!--   <img src="https://streak-stats.demolab.com?user=Mayan-S&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-<!--</div> -->
-
-<!--![](https://github-readme-stats.shion.dev/api?username=mayan-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<!--![](https://streak-stats.demolab.com/?user=mayan-s&theme=dark&hide_border=false)<br/> -->
-<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayan-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+</div>
