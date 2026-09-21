@@ -35,6 +35,7 @@
 | **[Power Amplifier and Filter Design for HF Radio Transceiver](https://github.com/Mayan-S/Power-Amplifier-and-Filter-Design-for-HF-Radio-Transceiver)** | Amplifies and filters the outgoing signal of a software-defined radio before it reaches the antenna |
 | **[Redesign Proposal for Chestnut Residence Building](https://mayan-s.github.io/chestnut-residence-redesign/)** | A description of the proposal to redesign the 27th and 28th floors of the Chestnut Residence building |
 | **[USB C Charger Design](https://github.com/Mayan-S/USB-C-Charger-Design)** | A portable power bank that charges a lithium-polymer battery over USB-C and outputs a regulated 5V |
+| **[Residential Electrical Design](https://github.com/Mayan-S/Residential-Electrical-Design)** | An electrical plan for a single-dwelling house, designed to the Canadian Electrical Code with load and circuit sizing |
 | **[LDO Converter Design](https://github.com/Mayan-S/LDO-Converter-Design)** | Steps down a 5V supply to a clean 3.3V output using a low-dropout linear regulator |
 | **[Buck Converter Shield Design for Arduino Uno](https://github.com/Mayan-S/Buck-Converter-Shield-Design-for-Arduino-Uno)** | Steps a 12V input down to 5V at over 90% efficiency to power an Arduino Uno and its peripherals |
 
